@@ -1,6 +1,5 @@
 <script>
   import Picture from './lib/Picture.svelte'
-  import ProductPricing from './lib/ProductPricing.svelte'
   import ProductContent from './lib/ProductContent.svelte'
 </script>
 
