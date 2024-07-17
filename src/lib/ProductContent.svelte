@@ -3,7 +3,7 @@
   import Button from './Button.svelte'
 </script>
 <div class="product__content">
-  <div class="product__category">Perfume</div>
+  <p class="product__category">Perfume</p>
   <h1 class="product__title">Gabrielle Essence Eau De Parfum</h1>
   <p>A floral, solar and voluptuous interpretation composed by Olivier Polge,
     Perfumer-Creator for the House of CHANEL.
