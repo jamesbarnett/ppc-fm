@@ -20,7 +20,7 @@
     content: ""; 
     width: 15px;
     height: 16px;
-    background-image: url("images/icon-cart.svg");
+    background-image: url("/images/icon-cart.svg");
   }
 
   button:is(:hover, :focus) {
