@@ -12,6 +12,8 @@
 
   --fw-regular: 500;
   --fw-bold: 700;
+  --fw-extra-bold: 800;
+  --fw-black: 900;
 }
 
 @font-face {
@@ -35,7 +37,14 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("/fonts/Fraunces144ptS000-Bold.woff2") format("woff2");
+  src: url("/fonts/Fraunces144ptS100-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/Fraunces144ptS000-Black.woff2") format("woff2");
 }
 
 @font-face {
@@ -62,6 +71,13 @@
   src: url("/fonts/Montserrat-Bold.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/Montserrat-ExtraBold.woff2") format("woff2");
+}
 /*
   1. Use a more-intuitive box-sizing model.
 */
