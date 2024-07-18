@@ -25,7 +25,7 @@
   }
 
   .product__title {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family: var(--ff-accent);
     font-weight: var(--fw-bold);
     color: var(--clr-neutral-900);
